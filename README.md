@@ -12,7 +12,7 @@ Lab focused on hands-on experience with Microsoft Active Directory. I performed 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/gallery/active-directory-he5B4yM.png" height="80%" width="80%" alt="Active Directory Lab"/>
+<img src="https://i.imgur.com/s9baWeA_d.jpeg?maxwidth=520&shape=thumb&fidelity=high" height="80%" width="80%" alt="Active Directory Lab"/>
 <br />
 <br />
 Select the disk:  <br/>
