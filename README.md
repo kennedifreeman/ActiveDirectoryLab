@@ -12,7 +12,7 @@ Lab focused on hands-on experience with Microsoft Active Directory. I performed 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/a/Kru1hcw" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gallery/active-directory-he5B4yM" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
