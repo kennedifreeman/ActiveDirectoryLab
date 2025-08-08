@@ -12,15 +12,15 @@ Lab focused on hands-on experience with Microsoft Active Directory. I performed 
 
 <p align="center">
 Open Server Manager: <br/>
-<img src="https://i.imgur.com/s9baWeA.jpeg" height="80%" width="80%" alt="Active Directory Lab"/>
+<img src="" height="80%" width="80%" alt="Active Directory Lab"/>
 <br />
 <br />
 Open Active Directory:  <br/>
-<img src="https://i.imgur.com/orBMRdp.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create A New User: <br/>
-<img src="https://i.imgur.com/pkbzJul.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
