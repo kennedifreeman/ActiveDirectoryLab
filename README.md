@@ -11,7 +11,7 @@ Lab focused on hands-on experience with Microsoft Active Directory. I performed 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Open Active Directory: <br/>
 <img src="https://i.imgur.com/s9baWeA.jpeg" height="80%" width="80%" alt="Active Directory Lab"/>
 <br />
 <br />
