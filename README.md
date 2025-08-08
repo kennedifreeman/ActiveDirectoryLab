@@ -11,11 +11,11 @@ Lab focused on hands-on experience with Microsoft Active Directory. I performed 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Open Active Directory: <br/>
+Open Server Manager: <br/>
 <img src="https://i.imgur.com/s9baWeA.jpeg" height="80%" width="80%" alt="Active Directory Lab"/>
 <br />
 <br />
-Select the disk:  <br/>
+Open Active Directory:  <br/>
 <img src="https://i.imgur.com/orBMRdp.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
