@@ -1,7 +1,7 @@
 <h1>Active Directory Lab</h1>
 
 <h2>Description</h2>
-Project consists of instructions that walk the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Lab focused on hands-on experience with Microsoft Active Directory. I performed key administrative tasks, including creating and deleting user accounts, moving users between Organizational Units (OUs), and creating a new OU for better organization. I also unlocked user accounts that were locked due to failed login attempts. The lab simulated real-world AD management tasks in a Windows Server environment.
 <br />
 
 
