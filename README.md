@@ -19,7 +19,7 @@ Open Active Directory:  <br/>
 <img src="https://i.imgur.com/orBMRdp.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Create A New User: <br/>
 <img src="https://i.imgur.com/pkbzJul.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
