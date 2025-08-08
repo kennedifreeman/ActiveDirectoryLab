@@ -12,7 +12,7 @@ Lab focused on hands-on experience with Microsoft Active Directory. I performed 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Server Academy</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
