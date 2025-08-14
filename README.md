@@ -49,23 +49,29 @@ This opens the ADUC console, which is where all user, group, and OU management i
  
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+🔀 Step 4 – Moving Users Between OUs:  <br/>
+<p align="left">
+1. Select the user account in the left-hand panel. <br>
+2. Drag the user into the new OU (e.g., from *Sales* to *IT*).  <br>
+3. Click **Yes** to confirm the move. <br>
 
-<!--
+
+<br />
+<br />
+🚫 Step 5 – Disabling and Deleting Accounts:  <br/>
+<p align="left">
+ **To Disable:**  
+1. Right-click the user account. <br>
+2. Select **Disable Account** (a down arrow icon appears on the user icon). <br>
+**To Delete:**  
+1. Right-click the user account. <br>
+2. Select **Delete**. <br>
+3. Confirm the deletion. <br>
+
+<br />
+<br />
+<h2>Key Takeaways:</h2>
+
  ```diff
 - text in red
 + text in green
