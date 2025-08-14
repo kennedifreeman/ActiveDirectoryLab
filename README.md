@@ -32,7 +32,7 @@ This opens the ADUC console, which is where all user, group, and OU management i
 4. 📝 Enter:  <br>
    - First Name  <br>
    - Last Name  <br>
-   - User Logon Name (e.g., `jdoe`)  <br>
+   - User Logon Name (e.g., `jane.doe@sdcsm.com`)  <br>
 5. Set an **initial password**.  <br>
 6. Check **User must change password at next logon**. <br> 
 7. Click **Finish** to create the account.  <br>
