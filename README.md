@@ -4,14 +4,14 @@
 Lab focused on hands-on experience with Microsoft Active Directory. I performed key administrative tasks, including creating and deleting user accounts, moving users between Organizational Units (OUs), and creating a new OU for better organization. I also unlocked user accounts that were locked due to failed login attempts. The lab simulated real-world AD management tasks in a Windows Server environment.
 <br />
 
-<h2>Environments Used </h2>
+<h2>Platforms Used </h2>
 
 - <b>Server Academy</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Open Server Manager: <br/>
+Step 1: Accessing Active Directory Users and Computers <br/>
 <img src="" height="80%" width="80%" alt="Active Directory Lab"/>
 <br />
 <br />
