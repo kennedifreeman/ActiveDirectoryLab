@@ -11,7 +11,7 @@ Lab focused on hands-on experience with Microsoft Active Directory. I performed 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Step 1: Accessing Active Directory Users and Computers <br/>
+🛠 Step 1: Accessing Active Directory Users and Computers <br/>
 <p align="left">
 After logging into the Server Academy lab environment:
  1. Click the **Start Menu**.<br>
@@ -23,8 +23,20 @@ This opens the ADUC console, which is where all user, group, and OU management i
 
 <br />
 <br />
-Open Active Directory:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="center">
+👤 Step 2 – Creating New User Accounts  <br/>
+<p align="left">
+1.  In ADUC, navigate to the **domain name** listed in the left-hand panel. <br>
+2. Right-click the **Organizational Unit (OU)** where the user should be created (e.g., *Domain Admin Users*). <br> 
+3. Select **New → User**.  <br>
+4. 📝 Enter:  <br>
+   - First Name  <br>
+   - Last Name  <br>
+   - User Logon Name (e.g., `jdoe`)  <br>
+5. Set an **initial password**.  <br>
+6. Check **User must change password at next logon**. <br> 
+7. Click **Finish** to create the account.  <br>
+
 <br />
 <br />
 Create A New User: <br/>
