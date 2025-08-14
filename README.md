@@ -12,6 +12,7 @@ Lab focused on hands-on experience with Microsoft Active Directory. I performed 
 
 <p align="center">
 Step 1: Accessing Active Directory Users and Computers <br/>
+<p align="left">
 After logging into the Server Academy lab environment:
 1. I clicked on the **Start Menu**.
 2. Opened **Server Manager**.
