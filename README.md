@@ -81,8 +81,8 @@ To Delete:
 <br />
 <br />
 <h2>Key Takeaways:</h2>
-## 📌 Key Takeaways
-- 📂 Accessing ADUC requires going through **Server Manager → Tools → Active Directory Users and Computers**. <br> 
+  📌 Key Takeaways <br>
+- 📂 Accessing ADUC requires going through Server Manager → Tools → Active Directory Users and Computers**. <br> 
 - 🗂 Keeping a clear **OU hierarchy** makes user management far easier. <br>
 - 🔐 Always force password changes after a reset to maintain security. <br>
 - 🚫 Disabling accounts is a safer first step before deleting. <br>
