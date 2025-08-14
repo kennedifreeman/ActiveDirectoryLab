@@ -34,7 +34,7 @@ This opens the ADUC console, which is where all user, group, and OU management i
 👤 Step 2 – Creating New User Accounts  <br/>
 <p align="left">
 1.  In ADUC, navigate to the **domain name** listed in the left-hand panel. <br>
-2. Right-click the **Organizational Unit (OU)** where the user should be created (e.g., @@Domain Admin Users@@). <br> 
+2. Right-click the **Organizational Unit (OU)** where the user should be created (e.g., @@Domain Admin Users). <br> 
 3. Select **New → User**.  <br>
 4. 📝 Enter:  <br>
    - First Name  <br>
