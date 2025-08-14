@@ -39,8 +39,14 @@ This opens the ADUC console, which is where all user, group, and OU management i
 
 <br />
 <br />
-Create A New User: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+🔄 Step 3 – Resetting Passwords: <br/>
+<p align="left">
+1. Locate the user in the correct OU. <br>
+2. Right-click their name and select **Reset Password**. <br> 
+3. Enter a new temporary password.  <br>
+4. Check **User must change password at next logon**. <br>
+5. Click **OK**. <br>
+ 
 <br />
 <br />
 Confirm your selection:  <br/>
