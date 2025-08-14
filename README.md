@@ -6,7 +6,7 @@ Lab focused on hands-on experience with Microsoft Active Directory. I performed 
 
 <h2>Project Highlights</h2>
 
-- <b> 
+<b> 
 > Platform: Server Academy  
 > Environment: Windows Server (Browser-based Lab)  <br>
 > Skills Practiced: User account creation, password resets, OU management, account deactivation <br> 
