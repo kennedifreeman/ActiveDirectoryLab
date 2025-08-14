@@ -4,9 +4,15 @@
 Lab focused on hands-on experience with Microsoft Active Directory. I performed key administrative tasks, including creating and deleting user accounts, moving users between Organizational Units (OUs), and creating a new OU for better organization. I also unlocked user accounts that were locked due to failed login attempts. The lab simulated real-world AD management tasks in a Windows Server environment.
 <br />
 
-<h2>Platforms Used </h2>
+<h2>Project Highlights</h2>
 
-- <b>Server Academy</b>
+- <b> > **Platform:** Server Academy  
+> Environment: Windows Server (Browser-based Lab)  <br>
+> Skills Practiced: User account creation, password resets, OU management, account deactivation <br> 
+> Tools Used: Active Directory Users and Computers (ADUC), Server Manager  <br>
+> Difficulty Level: 🟢 Beginner-Friendly → 🟠 Intermediate  <br>
+> Real-World Relevance: Simulates IT helpdesk and sysadmin account management tasks <br>
+</b>
 
 <h2>Program walk-through:</h2>
 
@@ -27,7 +33,7 @@ This opens the ADUC console, which is where all user, group, and OU management i
 👤 Step 2 – Creating New User Accounts  <br/>
 <p align="left">
 1.  In ADUC, navigate to the **domain name** listed in the left-hand panel. <br>
-2. Right-click the **Organizational Unit (OU)** where the user should be created (e.g., *Domain Admin Users*). <br> 
+2. Right-click the **Organizational Unit (OU)** where the user should be created (e.g., @@Domain Admin Users@@). <br> 
 3. Select **New → User**.  <br>
 4. 📝 Enter:  <br>
    - First Name  <br>
@@ -71,6 +77,12 @@ This opens the ADUC console, which is where all user, group, and OU management i
 <br />
 <br />
 <h2>Key Takeaways:</h2>
+## 📌 Key Takeaways
+- 📂 Accessing ADUC requires going through **Server Manager → Tools → Active Directory Users and Computers**. <br> 
+- 🗂 Keeping a clear **OU hierarchy** makes user management far easier. <br>
+- 🔐 Always force password changes after a reset to maintain security. <br>
+- 🚫 Disabling accounts is a safer first step before deleting. <br>
+
 
  ```diff
 - text in red
