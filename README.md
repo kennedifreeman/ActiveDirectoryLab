@@ -14,10 +14,13 @@ Lab focused on hands-on experience with Microsoft Active Directory. I performed 
 Step 1: Accessing Active Directory Users and Computers <br/>
 <p align="left">
 After logging into the Server Academy lab environment:
- -I clicked on the **Start Menu**.
- -Opened **Server Manager**.  
- -In the top right corner, I clicked on **Tools**.  
- -From the dropdown menu, I selected **Active Directory Users and Computers**.
+ 1. Click the **Start Menu**.  
+2. Open **Server Manager**.  
+3. In the top right corner, click **Tools**.  
+4. From the dropdown menu, select **Active Directory Users and Computers**.  
+
+This opens the ADUC console, which is where all user, group, and OU management is performed.  
+
 <br />
 <br />
 Open Active Directory:  <br/>
