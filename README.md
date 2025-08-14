@@ -46,6 +46,7 @@ This opens the ADUC console, which is where all user, group, and OU management i
 
 <br />
 <br />
+<p align="center">
 🔄 Step 3 – Resetting Passwords: <br/>
 <p align="left">
 1. Locate the user in the correct OU. <br>
@@ -56,6 +57,7 @@ This opens the ADUC console, which is where all user, group, and OU management i
  
 <br />
 <br />
+<p align="center">
 🔀 Step 4 – Moving Users Between OUs:  <br/>
 <p align="left">
 1. Select the user account in the left-hand panel. <br>
@@ -65,6 +67,7 @@ This opens the ADUC console, which is where all user, group, and OU management i
 
 <br />
 <br />
+<p align="center">
 🚫 Step 5 – Disabling and Deleting Accounts:  <br/>
 <p align="left">
 To Disable: 
