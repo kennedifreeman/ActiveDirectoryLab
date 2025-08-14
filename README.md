@@ -21,10 +21,10 @@ Lab focused on hands-on experience with Microsoft Active Directory. I performed 
 🛠 Step 1: Accessing Active Directory Users and Computers <br/>
 <p align="left">
 After logging into the Server Academy lab environment:
- 1. Click the **Start Menu**.<br>
-2. Open **Server Manager**.<br>
-3. In the top right corner, click **Tools**.<br>
-4. From the dropdown menu, select **Active Directory Users and Computers**.<br>
+ 1. Click the tart menu.<br>
+2. Open server manager.<br>
+3. In the top right corner, click TOOLS.<br>
+4. From the dropdown menu, select active directory users and computers.<br>
 
 This opens the ADUC console, which is where all user, group, and OU management is performed.  
 
@@ -33,46 +33,46 @@ This opens the ADUC console, which is where all user, group, and OU management i
 <p align="center">
 👤 Step 2 – Creating New User Accounts  <br/>
 <p align="left">
-1.  In ADUC, navigate to the **domain name** listed in the left-hand panel. <br>
-2. Right-click the **Organizational Unit (OU)** where the user should be created (e.g., @@Domain Admin Users). <br> 
-3. Select **New → User**.  <br>
+1.  In ADUC, navigate to the domain name listed in the left-hand panel. <br>
+2. Right-click the organizational unit (OU) where the user should be created (e.g., Domain Admin Users). <br> 
+3. Select NEW → USER.  <br>
 4. 📝 Enter:  <br>
    - First Name  <br>
    - Last Name  <br>
    - User Logon Name (e.g., `jane.doe@sdcsm.com`)  <br>
-5. Set an **initial password**.  <br>
-6. Check **User must change password at next logon**. <br> 
-7. Click **Finish** to create the account.  <br>
+5. Set an initial password.  <br>
+6. Check user must change password at next logon. <br> 
+7. Click finish to create the account.  <br>
 
 <br />
 <br />
 🔄 Step 3 – Resetting Passwords: <br/>
 <p align="left">
 1. Locate the user in the correct OU. <br>
-2. Right-click their name and select **Reset Password**. <br> 
+2. Right-click their name and select reset password. <br> 
 3. Enter a new temporary password.  <br>
 4. Check **User must change password at next logon**. <br>
-5. Click **OK**. <br>
+5. Click ok. <br>
  
 <br />
 <br />
 🔀 Step 4 – Moving Users Between OUs:  <br/>
 <p align="left">
 1. Select the user account in the left-hand panel. <br>
-2. Drag the user into the new OU (e.g., from *Sales* to *IT*).  <br>
-3. Click **Yes** to confirm the move. <br>
+2. Drag the user into the new OU (e.g., from Domain Admin Users to Domain Users).  <br>
+3. Click yes to confirm the move. <br>
 
 
 <br />
 <br />
 🚫 Step 5 – Disabling and Deleting Accounts:  <br/>
 <p align="left">
- **To Disable:**  
+To Disable: 
 1. Right-click the user account. <br>
-2. Select **Disable Account** (a down arrow icon appears on the user icon). <br>
-**To Delete:**  
+2. Select disable account (a down arrow icon appears on the user icon). <br>
+To Delete:  
 1. Right-click the user account. <br>
-2. Select **Delete**. <br>
+2. Select Delete. <br>
 3. Confirm the deletion. <br>
 
 <br />
